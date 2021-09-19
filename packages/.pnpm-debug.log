@@ -1,0 +1,15 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1,
+    "workspacePrefix": "/Users/bilal/Development/portfolio"
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_SCRIPT",
+    "err": {
+      "name": "pnpm",
+      "message": "Missing script: dev",
+      "code": "ERR_PNPM_NO_SCRIPT",
+      "stack": "pnpm: Missing script: dev\n    at Object.handler (/Users/bilal/.nvm/versions/node/v14.17.6/lib/node_modules/pnpm/dist/pnpm.cjs:129192:15)\n    at async /Users/bilal/.nvm/versions/node/v14.17.6/lib/node_modules/pnpm/dist/pnpm.cjs:133338:20\n    at async run (/Users/bilal/.nvm/versions/node/v14.17.6/lib/node_modules/pnpm/dist/pnpm.cjs:133313:34)\n    at async runPnpm (/Users/bilal/.nvm/versions/node/v14.17.6/lib/node_modules/pnpm/dist/pnpm.cjs:133523:5)\n    at async /Users/bilal/.nvm/versions/node/v14.17.6/lib/node_modules/pnpm/dist/pnpm.cjs:133515:7"
+    }
+  }
+}

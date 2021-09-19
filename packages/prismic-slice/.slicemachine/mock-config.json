@@ -1,0 +1,22 @@
+{
+  "slices": {
+    "MySlice": {
+      "default-slice": {
+        "primary": {
+          "image": {
+            "content": "https://images.unsplash.com/photo-1555169062-013468b47731"
+          }
+        },
+        "items": {
+          "img2": {
+            "content": "https://images.unsplash.com/photo-1534759926787-89fa60f35848"
+          }
+        }
+      }
+    },
+    "NewSlice": {}
+  },
+  "_cts": {
+    "page": {}
+  }
+}

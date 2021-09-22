@@ -1,0 +1,17 @@
+{
+  "slices": {
+    "MyFirstSlice": {},
+    "CodeBlock": {
+      "default": {
+        "primary": {
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    }
+  }
+}
